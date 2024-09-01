@@ -1,0 +1,16 @@
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --amarelo:#FCBF49;
+  --cinza:#E5E5E5; 
+  --branco:#ffffff; 
+}
+
+html {
+  font-size: 62.5%;
+}
